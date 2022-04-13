@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/cstack
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://connorstack.com
+  * I am cstack (https://keybase.io/cstack) on keybase.
+  * I have a public key with fingerprint 35FA FA72 039F D19F C5B0  6928 03E4 7DD5 FAA1 7BB5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200c589affc8a017396e29d4391850e63fac784396ead83c8e8da0070060dda0ee0a",
+      "fingerprint": "35fafa72039fd19fc5b0692803e47dd5faa17bb5",
+      "host": "keybase.io",
+      "key_id": "03e47dd5faa17bb5",
+      "kid": "01017cc5218e46ab836e6085e0eb978872baac5f9262e618bfc8b34b339ec837d53d0a",
+      "uid": "0eafe1a0210201615695e376ca0e5d19",
+      "username": "cstack"
+    },
+    "merkle_root": {
+      "ctime": 1649860140,
+      "hash_meta": "b1d5b4f33d8d503b73d4f8445621a480e0acd9bf6d15d8b88909168469865f5d",
+      "seqno": 22287232
+    },
+    "revoke": {
+      "sig_ids": [
+        "ab26561a95d0d77c9900b745c91a47872a6e2834d99df3dbb9497c4aef9814480f"
+      ]
+    },
+    "service": {
+      "hostname": "connorstack.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1649860166,
+  "expire_in": 157680000,
+  "prev": "e30d288e54216a438b354fcc022b1c427aa0bc632bde798f5b8a22641ab88ac9",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMP9AnicZVN9TFZVHEYQEpAQnR9B6rqKljA79557zz0XzOkMlYljukkfWi/n68Ir
+8t7X+14QeEVaw+/CAgu/mnO6rBzOVpJimYGrnDoEA2vza1psieYHc5mJdV7MrdX9
+5957zvN7fs/z/M45nhQTlTAo5ufqrvu7wgcHnWytKIuiBRdnhxXq8EolK6yUiIGX
+WMZFyPOV+LmSpQBVA4AZ2CK2zTABqgktJDSL69BSsQEEgjZhJtYjy4RjyLDAnABg
+AoAAl19CAKJkKrY/UCTcoOsPeJIWGjaxiakBaNlctWxmUIAsDQModJNzuUtUk1JD
+FhY7oUiFFEdJSEz1O3JN/vgeyfs//rFuKZUxQ1Ox0BGhGCKBADYEENQyMTY1Sggz
+bEtDmkAqptIdhTqF0BIMQ5MbkA/oLntEJ4gtVAI0FWhARaqBLENAEzHpz5AGIsCQ
+cAOkVEg0C3mElSjVmUqpcEuWCZ/rOF4kWub5IwAV6RZGQNWBtEdCxb5S4RFZR1Vu
+UN2GkGNuAEhNyHUb67qBNJXoGMgkGbeojbhqcEwxtoClIqwjyWbYBpcqQmJ5wFGy
+NE2TFqEmJbii3CkRke4hf5FMLaRkLVYI1ZCBVGIZHHDTZJYFADV1g1mykSlLiRwy
+hjq3LG5DTqmlWybTibAtrOpSiq28Vh3p5pb72QB5ZEyP7TuBgOMOZDCVOaVSVdB1
+PIc5y+RmsecFQ1mRbLzKYAS9QlDfPzw+6g9weU5kRblwQ34nILOSyP/EhlCmIiqC
+flf4/BGEYSIM5BPpI8olpYCAaxgLQ9dURHQoJ2voNmNA06jKdM0kBFCGoEa5MC1s
+GxQTTUO6Ks8JJsz6V45Y6iRFklOGFyBemSuU6tZvlgyOGpQQFRcbHblAUQnxwx5f
+q/odyQ+fnxK/IKbZ3JDW2PFiatemvoz6uPt331uwPjE+0NzXB+ZumRTfUDM69ejZ
+qruHw/uvsVryXWK4a/Cocc3H9k/dgNMH98+/9Sw8F+ybsr69tCnhXtmipiWs1k1X
+CAwdmNHdOGJM1PgfrZiuYXnJcPxc5gxffXbr8m5vdFsTmVdW1RFz4c0PLmd3pr9Q
+//3KZK1y5G8j3e15bWlfLlywM2VUfiyqGL505oU/jizuXxw29y46HPdkwaTk3FmZ
+b6/p8dYVJhZkpyTf2PVWsZl95Kme8t1Zh9ZcDZ7/ah9yv+hPv1HLbtfzynGVI/NX
+d2R4N+aO71Rz/wzP6b35yZnT872Wmt7YMXnPxU33xxbcHPrX1Qcr+8cWXGr4+P3O
+tMbizQ33friwcVvcT1+DK6GM85+emTnlZMmMFLK2fciJ6KXZGQ2nKsjxnMLjm+41
+PjPx1WvJLT23DuH7Dz6qg8snJK3KVw6+UZaTM3T6nTq67vdo/fqlz84+caA2dWfb
+6W1r5u/bG7wS3RL3+oeXT/ReSyrtnfBw2to7w98dsX11d0uweU57++Ta2R1DFk0c
+25lXV3qu6Hpc4Z7Gfc01q355qTKm5uipdyoO5qy/XTNr88L8w2nde9p+pfm+xIVH
+5mSmftvDp+XuKD+w8eWuyegirtpd93TVse7WdjRv6LiJTbV0bdLW7uuvpOSGW1e4
+Wz6fWXA0x7/RLPwbXNT4pg==
+=XFmH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cstack
+
+==================================================================
